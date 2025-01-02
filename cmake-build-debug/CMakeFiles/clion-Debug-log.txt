@@ -1,0 +1,16 @@
+"D:\New folder\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/New folder/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\Main project BP" -B "D:\Main project BP\cmake-build-debug"
+-- The C compiler identification is GNU 5.1.0
+-- The CXX compiler identification is GNU 5.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/mingw64/MinGW/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/mingw64/MinGW/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (1.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/Main project BP/cmake-build-debug
