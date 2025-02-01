@@ -1,5 +1,5 @@
-ToolSet: 3.20 (local)@C:\mingw64\MinGW
-Ninja: 1.12.0@D:\New folder\CLion 2024.2.1\bin\ninja\win\x64\ninja.exe
+ToolSet: 3.20 (local)@C:\MinGW2
+Ninja: 1.12.0@C:\New folder\CLion 2024.2.1\bin\ninja\win\x64\ninja.exe
 Options: 
 
-Options:-DCMAKE_MAKE_PROGRAM=D:/New folder/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe
+Options:-DCMAKE_MAKE_PROGRAM=C:/New folder/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe
